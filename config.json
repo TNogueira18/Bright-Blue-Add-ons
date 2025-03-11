@@ -1,0 +1,15 @@
+{
+  "name": "Bright Blue Add-on",
+  "version": "1.0",
+  "slug": "brightblue",
+  "description": "Integration for Bright Blue pool system",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "system",
+  "boot": "auto",
+  "options": {
+    "host": ""
+  },
+  "schema": {
+    "host": "str"
+  }
+}

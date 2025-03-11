@@ -5,10 +5,10 @@ This add-on integrates the Bright Blue pool monitoring system with Home Assistan
 ## Installation
 
 1. Go to Home Assistant → Settings → Add-ons → Add-on Store.
-2. Click "Repositories" (bottom right) and enter: https://github.com/TNoguiera18/homeassistant-brightblue-addon
-3. Click "Add", then find and install the Bright Blue Add-on.
-4. Set the ESP device's IP in the Configuration.
-5. Start the add-on and check the logs.
+2. Click "Repositories" (bottom right) and enter: https://github.com/TNogueira18/Bright-Blue-Add-ons
+4. Click "Add", then find and install the Bright Blue Add-on.
+5. Set the ESP device's IP in the Configuration.
+6. Start the add-on and check the logs.
 
 ## API Endpoints
 
